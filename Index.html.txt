@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart Data Solution - Fast, Accurate & Reliable Digital Services</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #fff;
+            color: #333;
+        }
+        header {
+            background-color: #007bff;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+        }
+        .tagline {
+            font-size: 18px;
+        }
+        .section {
+            padding: 40px 20px;
+            border-bottom: 1px solid #ddd;
+        }
+        .section h2 {
+            color: #007bff;
+        }
+        .services-list {
+            list-style: none;
+            padding: 0;
+        }
+        .services-list li {
+            margin-bottom: 10px;
+        }
+        .services-list li i {
+            color: #007bff;
+            margin-right: 10px;
+        }
+        .contact-form {
+            max-width: 400px;
+            margin: 20px auto;
+        }
+        .contact-form input, .contact-form textarea {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ddd;
+        }
+        .contact-form button {
+            background-color: #007bff;
+            color: #fff;
+            padding: 10px 20px;
+            border: none;
+            cursor: pointer;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+    </style>
+    <link rel="stylesheet" href="https:                                                                     
+</head>
+<body>
+    <header>
+        <h1>Smart Data Solution</h1>
+        <p class="tagline">Fast, Accurate & Reliable Digital Services</p>
+    </header>
+    
+    <section class="section" id="about">
+        <h2>About Us</h2>
+        <p>My name is Noor Muhammad, and I am the founder of Smart Data Solution. I am a dedicated online service provider with strong experience in data entry, typing, document handling, and Google Sheets management. I have worked in office and transport-related roles where accuracy, responsibility, and time management were essential. Today, I provide independent online services to individuals and small businesses, focusing on quality work, fast delivery, and honest communication.</p>
+    </section>
+    
+    <section class="section" id="services">
+        <h2>Our Services</h2>
+        <ul class="services-list">
+            <li><i class="fa fa-check"></i> Data Entry Services
+                <ul>
+                    <li>Manual and online data entry</li>
+                    <li>Excel and Google Sheets data management</li>
+                </ul>
+            </li>
+            <li><i class="fa fa-check"></i> Typing Services (English & Urdu)
+                <ul>
+                    <li>Handwritten to digital typing</li>
+                    <li>Fast and accurate typing</li>
+                </ul>
+            </li>
+            <li><i class="fa fa-check"></i> Document Services
+                <ul>
+                    <li>PDF to Word / Excel conversion</li>
+                    <li>Document formatting and editing</li>
+                </ul>
+            </li>
+            <li><i class="fa fa-check"></i> Reporting & Office Support
+                <ul>
+                    <li>Daily reports in Excel / Sheets</li>
+                    <li>Record maintenance and documentation</li>
+                </ul>
+            </li>
+        </ul>
+    </section>
+    
+    <section class="section" id="pricing">
+        <h2>Pricing</h2>
+        <p>Affordable rates available in PKR and AED. Custom pricing based on project size and urgency.</p>
+    </section>
+    
+    <section class="section" id="why-choose-us">
+        <h2>Why Choose Us</h2>
+        <ul>
+            <li>High accuracy and confidentiality</li>
+            <li>Fast delivery and clear communication</li>
+            <li>Suitable for individuals and small businesses</li>
+            <li>100% online and remote service</li>
+        </ul>
+    </section>
+    
+    <section class="section" id="contact">
+        <h2>Get in Touch</h2>
+        <p>Phone / WhatsApp: +971 56 345 5724</p>
+        <p>Email: smartdatasolution01@gmail.com</p>
+        <form class="contact-form">
+            <input type="text" name="name" placeholder="Name">
+            <input type="email" name="email" placeholder="Email">
+            <textarea name="message" placeholder="Message"></textarea>
+            <button type="submit">Send Message</button>
+        </form>
+    </section>
+    
+    <footer>
+        <p>&copy; 2026 Smart Data Solution – All Rights Reserved</p>
+    </footer>
+</body>
+</html>
+
